@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xfunfacts.github.io/sitemap.xml
